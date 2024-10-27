@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Currency Calculator</string>
+    <string-array name="currency_array">
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>RUB</item>
+        <item>CNY</item>
+        <item>JPY</item>
+        <item>KRW</item>
+        <item>AUD</item>
+        <item>CHF</item>
+        <item>CAD</item>
+        <item>SGD</item>
+        <item>SEK</item>
+        <item>TRY</item>
+        <item>HKD</item>
+    </string-array>
+</resources>
